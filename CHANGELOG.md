@@ -42,3 +42,4 @@
 - 2025-06-05: Document pubsub channels
 - 2025-08-13: Expand scan iteration docs
 - 2026-09-05: Add cluster slots notes
+- 2026-12-06: Expand connection handling docs
