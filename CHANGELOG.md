@@ -62,3 +62,4 @@
 - 2015-09-24: Polish docs
 - 2015-01-19: Fix example
 - 2015-09-05: Review content
+- 2015-01-09: Improve docs
