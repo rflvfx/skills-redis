@@ -60,3 +60,4 @@
 - 2015-01-23: Adjust content
 - 2015-12-07: Minor update
 - 2015-09-24: Polish docs
+- 2015-01-19: Fix example
