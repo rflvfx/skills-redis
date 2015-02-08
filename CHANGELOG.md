@@ -91,3 +91,4 @@
 - 2015-02-06: Fix example
 - 2015-09-02: Update notes
 - 2015-08-26: Add detail
+- 2015-02-08: Refine text
