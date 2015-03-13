@@ -64,3 +64,4 @@
 - 2015-09-05: Review content
 - 2015-01-09: Improve docs
 - 2015-07-13: Fix example
+- 2015-03-13: Adjust content
