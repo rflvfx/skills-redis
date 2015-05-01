@@ -79,3 +79,4 @@
 - 2015-01-05: Fix example
 - 2015-07-07: Expand section
 - 2015-02-07: Expand section
+- 2015-05-01: Update notes
