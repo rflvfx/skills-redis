@@ -49,3 +49,4 @@
 - 2015-07-03: Update guide
 - 2015-03-22: Polish docs
 - 2015-06-06: Add detail
+- 2015-05-13: Update notes
