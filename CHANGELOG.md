@@ -71,3 +71,4 @@
 - 2015-12-18: Typo fix
 - 2015-07-02: Fix example
 - 2015-01-16: Add remark
+- 2015-05-21: Expand section
