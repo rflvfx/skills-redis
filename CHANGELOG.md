@@ -84,3 +84,4 @@
 - 2015-04-02: Improve docs
 - 2015-10-22: Update notes
 - 2015-01-04: Refine text
+- 2015-06-06: Refine text
