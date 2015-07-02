@@ -69,3 +69,4 @@
 - 2015-08-23: Small fix
 - 2015-11-13: Add detail
 - 2015-12-18: Typo fix
+- 2015-07-02: Fix example
