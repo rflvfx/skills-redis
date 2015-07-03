@@ -46,3 +46,4 @@
 - 2026-12-21: Improve key expiration coverage
 - 2023-04-07: Update documentation
 - 2023-03-16: Update documentation
+- 2015-07-03: Update guide
