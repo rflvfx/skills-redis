@@ -89,3 +89,4 @@
 - 2015-04-26: Review content
 - 2015-03-13: Expand section
 - 2015-02-06: Fix example
+- 2015-09-02: Update notes
