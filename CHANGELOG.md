@@ -56,3 +56,4 @@
 - 2015-01-13: Add note
 - 2015-06-02: Update guide
 - 2015-01-09: Update notes
+- 2015-09-09: Clarify section
