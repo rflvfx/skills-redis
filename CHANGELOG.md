@@ -75,3 +75,4 @@
 - 2015-06-27: Expand section
 - 2015-03-11: Adjust content
 - 2015-07-28: Update guide
+- 2015-10-10: Add note
