@@ -8,3 +8,4 @@
 - 2015-09-11: Add remark
 - 2015-12-04: Minor update
 - 2015-07-27: Add remark
+- 2015-11-08: Clarify section
