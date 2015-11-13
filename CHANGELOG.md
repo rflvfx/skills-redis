@@ -67,3 +67,4 @@
 - 2015-03-13: Adjust content
 - 2015-02-13: Add detail
 - 2015-08-23: Small fix
+- 2015-11-13: Add detail
