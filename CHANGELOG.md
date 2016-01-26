@@ -130,3 +130,4 @@
 - 2016-10-03: Expand section
 - 2016-12-05: Typo fix
 - 2016-05-06: Update guide
+- 2016-01-26: Add remark
