@@ -98,3 +98,4 @@
 - 2016-06-09: Review content
 - 2016-03-06: Minor update
 - 2016-05-17: Update guide
+- 2016-02-01: Adjust content
