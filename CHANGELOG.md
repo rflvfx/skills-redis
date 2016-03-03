@@ -112,3 +112,4 @@
 - 2016-07-19: Expand section
 - 2016-08-21: Minor update
 - 2016-12-12: Polish docs
+- 2016-03-03: Refine text
