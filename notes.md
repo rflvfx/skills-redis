@@ -10,3 +10,4 @@
 - 2015-07-27: Add remark
 - 2015-11-08: Clarify section
 - 2015-09-20: Adjust content
+- 2016-03-19: Polish docs
