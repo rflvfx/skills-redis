@@ -137,3 +137,4 @@
 - 2016-04-10: Typo fix
 - 2016-05-08: Refine text
 - 2016-07-08: Fix example
+- 2016-04-01: Clarify section
