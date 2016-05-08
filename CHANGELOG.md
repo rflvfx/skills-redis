@@ -135,3 +135,4 @@
 - 2016-08-25: Update notes
 - 2016-09-15: Review content
 - 2016-04-10: Typo fix
+- 2016-05-08: Refine text
