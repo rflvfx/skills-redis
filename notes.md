@@ -18,3 +18,4 @@
 - 2016-01-11: Small fix
 - 2016-08-07: Clarify section
 - 2016-03-19: Adjust content
+- 2016-06-14: Review content
