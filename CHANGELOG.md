@@ -126,3 +126,4 @@
 - 2016-02-19: Improve docs
 - 2016-08-24: Update guide
 - 2016-06-02: Typo fix
+- 2016-06-18: Adjust content
