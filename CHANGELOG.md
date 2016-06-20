@@ -107,3 +107,4 @@
 - 2016-07-17: Add detail
 - 2016-07-19: Small fix
 - 2016-07-05: Add remark
+- 2016-06-20: Update notes
