@@ -100,3 +100,4 @@
 - 2016-05-17: Update guide
 - 2016-02-01: Adjust content
 - 2016-01-27: Refine text
+- 2016-07-10: Adjust content
