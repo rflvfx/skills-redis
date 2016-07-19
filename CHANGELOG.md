@@ -105,3 +105,4 @@
 - 2016-10-04: Update guide
 - 2016-12-05: Update notes
 - 2016-07-17: Add detail
+- 2016-07-19: Small fix
