@@ -109,3 +109,4 @@
 - 2016-07-05: Add remark
 - 2016-06-20: Update notes
 - 2016-05-25: Update notes
+- 2016-07-19: Expand section
