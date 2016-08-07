@@ -16,3 +16,4 @@
 - 2016-03-27: Minor update
 - 2016-08-01: Add detail
 - 2016-01-11: Small fix
+- 2016-08-07: Clarify section
