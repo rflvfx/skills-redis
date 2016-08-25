@@ -132,3 +132,4 @@
 - 2016-05-06: Update guide
 - 2016-01-26: Add remark
 - 2016-07-07: Improve docs
+- 2016-08-25: Update notes
