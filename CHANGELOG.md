@@ -9,3 +9,4 @@
 - 2015-12-19: Refine pipeline batching guide
 - 2019-08-01: Refine cluster slots guide
 - 2016-05-07: Update keyspace notifications reference
+- 2016-09-03: Add memory policies notes
