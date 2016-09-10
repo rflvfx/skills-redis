@@ -11,3 +11,4 @@
 - 2015-11-08: Clarify section
 - 2015-09-20: Adjust content
 - 2016-03-19: Polish docs
+- 2016-09-10: Add detail
