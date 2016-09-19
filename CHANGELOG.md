@@ -93,3 +93,4 @@
 - 2015-08-26: Add detail
 - 2015-02-08: Refine text
 - 2016-01-21: Add detail
+- 2016-09-19: Clarify section
