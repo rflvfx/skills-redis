@@ -128,3 +128,4 @@
 - 2016-06-02: Typo fix
 - 2016-06-18: Adjust content
 - 2016-10-03: Expand section
+- 2016-12-05: Typo fix
