@@ -103,3 +103,4 @@
 - 2016-07-10: Adjust content
 - 2016-05-20: Small fix
 - 2016-10-04: Update guide
+- 2016-12-05: Update notes
