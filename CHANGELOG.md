@@ -119,3 +119,4 @@
 - 2016-02-06: Expand section
 - 2016-10-23: Expand section
 - 2016-12-28: Small fix
+- 2016-12-28: Update guide
