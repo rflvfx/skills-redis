@@ -151,3 +151,4 @@
 - 2017-05-04: Refine text
 - 2017-04-14: Adjust content
 - 2017-10-19: Add remark
+- 2017-02-14: Add note
