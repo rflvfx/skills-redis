@@ -157,3 +157,4 @@
 - 2017-02-13: Add remark
 - 2017-01-18: Update notes
 - 2017-07-03: Typo fix
+- 2017-03-06: Improve docs
