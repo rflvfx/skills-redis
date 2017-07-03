@@ -156,3 +156,4 @@
 - 2017-09-24: Update guide
 - 2017-02-13: Add remark
 - 2017-01-18: Update notes
+- 2017-07-03: Typo fix
