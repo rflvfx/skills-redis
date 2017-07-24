@@ -174,3 +174,4 @@
 - 2017-05-26: Refine text
 - 2017-07-28: Adjust content
 - 2017-11-20: Refine text
+- 2017-07-24: Review content
