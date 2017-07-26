@@ -14,3 +14,4 @@
 - 2017-02-27: Add hyperloglog counts notes
 - 2020-09-03: Expand hash structures docs
 - 2017-04-27: Review geo indexes section
+- 2017-07-26: Add pubsub channels examples
