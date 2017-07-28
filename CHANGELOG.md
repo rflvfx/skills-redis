@@ -172,3 +172,4 @@
 - 2017-04-23: Adjust content
 - 2017-10-03: Adjust content
 - 2017-05-26: Refine text
+- 2017-07-28: Adjust content
