@@ -23,3 +23,4 @@
 - 2017-05-26: Update guide
 - 2017-04-10: Add detail
 - 2017-06-24: Update notes
+- 2017-08-05: Review content
