@@ -27,3 +27,4 @@
 - 2017-09-16: Review content
 - 2017-06-20: Add note
 - 2017-06-02: Small fix
+- 2017-08-20: Polish docs
