@@ -166,3 +166,4 @@
 - 2017-02-10: Minor update
 - 2017-07-14: Adjust content
 - 2017-03-24: Review content
+- 2017-08-25: Adjust content
