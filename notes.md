@@ -24,3 +24,4 @@
 - 2017-04-10: Add detail
 - 2017-06-24: Update notes
 - 2017-08-05: Review content
+- 2017-09-16: Review content
