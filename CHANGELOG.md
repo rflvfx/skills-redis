@@ -153,3 +153,4 @@
 - 2017-10-19: Add remark
 - 2017-02-14: Add note
 - 2017-06-15: Minor update
+- 2017-09-24: Update guide
