@@ -143,3 +143,4 @@
 - 2017-04-14: Add note
 - 2017-07-06: Small fix
 - 2017-02-12: Minor update
+- 2017-09-27: Expand section
