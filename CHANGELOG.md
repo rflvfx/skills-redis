@@ -170,3 +170,4 @@
 - 2017-02-10: Typo fix
 - 2017-12-25: Typo fix
 - 2017-04-23: Adjust content
+- 2017-10-03: Adjust content
