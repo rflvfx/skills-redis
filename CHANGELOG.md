@@ -158,3 +158,4 @@
 - 2017-01-18: Update notes
 - 2017-07-03: Typo fix
 - 2017-03-06: Improve docs
+- 2017-10-19: Fix example
