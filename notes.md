@@ -28,3 +28,4 @@
 - 2017-06-20: Add note
 - 2017-06-02: Small fix
 - 2017-08-20: Polish docs
+- 2017-11-06: Update notes
