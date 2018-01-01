@@ -197,3 +197,4 @@
 - 2018-03-14: Add detail
 - 2018-08-17: Fix example
 - 2018-07-12: Refine text
+- 2018-01-01: Review content
