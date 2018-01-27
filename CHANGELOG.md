@@ -200,3 +200,4 @@
 - 2018-01-01: Review content
 - 2018-05-15: Adjust content
 - 2018-12-16: Small fix
+- 2018-01-27: Add detail
