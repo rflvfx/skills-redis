@@ -184,3 +184,4 @@
 - 2018-07-04: Review content
 - 2018-09-02: Expand section
 - 2018-05-27: Add detail
+- 2018-02-13: Typo fix
