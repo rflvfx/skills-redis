@@ -203,3 +203,4 @@
 - 2018-01-27: Add detail
 - 2018-10-21: Minor update
 - 2018-08-11: Adjust content
+- 2018-02-26: Minor update
