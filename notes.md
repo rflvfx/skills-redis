@@ -32,3 +32,4 @@
 - 2018-01-01: Adjust content
 - 2018-04-17: Review content
 - 2018-04-17: Expand section
+- 2018-03-17: Typo fix
