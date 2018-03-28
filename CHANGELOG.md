@@ -187,3 +187,4 @@
 - 2018-02-13: Typo fix
 - 2018-09-02: Fix example
 - 2018-12-26: Refine text
+- 2018-03-28: Expand section
