@@ -33,3 +33,4 @@
 - 2018-04-17: Review content
 - 2018-04-17: Expand section
 - 2018-03-17: Typo fix
+- 2018-04-01: Expand section
