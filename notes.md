@@ -39,3 +39,4 @@
 - 2018-05-25: Clarify section
 - 2018-06-06: Adjust content
 - 2018-07-04: Polish docs
+- 2018-04-08: Polish docs
