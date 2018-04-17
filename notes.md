@@ -30,3 +30,4 @@
 - 2017-08-20: Polish docs
 - 2017-11-06: Update notes
 - 2018-01-01: Adjust content
+- 2018-04-17: Review content
