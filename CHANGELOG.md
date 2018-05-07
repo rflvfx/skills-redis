@@ -180,3 +180,4 @@
 - 2017-06-01: Minor update
 - 2018-10-20: Typo fix
 - 2018-03-02: Update notes
+- 2018-05-07: Add note
