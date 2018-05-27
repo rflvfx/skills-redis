@@ -183,3 +183,4 @@
 - 2018-05-07: Add note
 - 2018-07-04: Review content
 - 2018-09-02: Expand section
+- 2018-05-27: Add detail
