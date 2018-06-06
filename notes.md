@@ -37,3 +37,4 @@
 - 2018-08-14: Refine text
 - 2018-12-02: Update guide
 - 2018-05-25: Clarify section
+- 2018-06-06: Adjust content
