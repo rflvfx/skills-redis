@@ -193,3 +193,4 @@
 - 2018-06-28: Review content
 - 2018-12-28: Improve docs
 - 2018-11-22: Minor update
+- 2018-06-07: Update guide
