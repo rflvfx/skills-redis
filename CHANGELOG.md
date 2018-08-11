@@ -202,3 +202,4 @@
 - 2018-12-16: Small fix
 - 2018-01-27: Add detail
 - 2018-10-21: Minor update
+- 2018-08-11: Adjust content
