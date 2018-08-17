@@ -195,3 +195,4 @@
 - 2018-11-22: Minor update
 - 2018-06-07: Update guide
 - 2018-03-14: Add detail
+- 2018-08-17: Fix example
