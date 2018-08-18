@@ -206,3 +206,4 @@
 - 2018-02-26: Minor update
 - 2018-04-11: Update notes
 - 2018-04-14: Minor update
+- 2018-08-18: Minor update
