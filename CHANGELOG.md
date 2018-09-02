@@ -182,3 +182,4 @@
 - 2018-03-02: Update notes
 - 2018-05-07: Add note
 - 2018-07-04: Review content
+- 2018-09-02: Expand section
