@@ -214,3 +214,4 @@
 - 2018-10-12: Minor update
 - 2018-11-14: Add note
 - 2018-05-14: Polish docs
+- 2018-09-06: Polish docs
