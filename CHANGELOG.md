@@ -211,3 +211,4 @@
 - 2018-10-18: Typo fix
 - 2018-10-28: Refine text
 - 2018-11-05: Fix example
+- 2018-10-12: Minor update
