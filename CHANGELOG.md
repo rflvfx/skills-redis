@@ -178,3 +178,4 @@
 - 2017-06-09: Minor update
 - 2017-05-18: Review content
 - 2017-06-01: Minor update
+- 2018-10-20: Typo fix
