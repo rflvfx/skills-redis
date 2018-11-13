@@ -216,3 +216,4 @@
 - 2018-05-14: Polish docs
 - 2018-09-06: Polish docs
 - 2018-03-14: Add remark
+- 2018-11-13: Expand section
