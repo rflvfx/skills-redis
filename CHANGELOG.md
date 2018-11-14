@@ -212,3 +212,4 @@
 - 2018-10-28: Refine text
 - 2018-11-05: Fix example
 - 2018-10-12: Minor update
+- 2018-11-14: Add note
