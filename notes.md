@@ -35,3 +35,4 @@
 - 2018-03-17: Typo fix
 - 2018-04-01: Expand section
 - 2018-08-14: Refine text
+- 2018-12-02: Update guide
