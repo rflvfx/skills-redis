@@ -191,3 +191,4 @@
 - 2018-11-24: Polish docs
 - 2018-12-07: Small fix
 - 2018-06-28: Review content
+- 2018-12-28: Improve docs
