@@ -49,3 +49,4 @@
 - 2019-12-28: Polish docs
 - 2019-02-13: Add remark
 - 2019-12-02: Minor update
+- 2019-01-09: Minor update
