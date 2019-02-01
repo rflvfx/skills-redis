@@ -250,3 +250,4 @@
 - 2019-03-24: Small fix
 - 2019-07-20: Add detail
 - 2019-09-16: Update guide
+- 2019-02-01: Update guide
