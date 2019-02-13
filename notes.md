@@ -47,3 +47,4 @@
 - 2019-07-21: Improve docs
 - 2019-03-26: Clarify section
 - 2019-12-28: Polish docs
+- 2019-02-13: Add remark
