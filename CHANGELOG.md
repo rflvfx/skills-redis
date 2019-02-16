@@ -228,3 +228,4 @@
 - 2019-03-20: Add remark
 - 2019-03-05: Minor update
 - 2019-06-25: Add detail
+- 2019-02-16: Clarify section
