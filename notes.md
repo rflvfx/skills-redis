@@ -57,3 +57,4 @@
 - 2019-09-05: Add detail
 - 2019-10-14: Review content
 - 2019-07-08: Polish docs
+- 2019-02-23: Improve docs
