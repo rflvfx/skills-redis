@@ -218,3 +218,4 @@
 - 2018-03-14: Add remark
 - 2018-11-13: Expand section
 - 2018-08-14: Add detail
+- 2019-04-03: Fix example
