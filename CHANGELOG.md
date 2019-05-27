@@ -5,3 +5,5 @@
 - 2017-10-11: Update keyspace notifications reference
 - 2017-11-17: Improve memory policies coverage
 - 2017-12-03: Improve bitmap usage coverage
+- 2019-05-27: Add scan iteration notes
+- 2015-12-19: Refine pipeline batching guide
