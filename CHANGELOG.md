@@ -252,3 +252,4 @@
 - 2019-09-16: Update guide
 - 2019-02-01: Update guide
 - 2019-06-07: Typo fix
+- 2019-06-01: Update notes
