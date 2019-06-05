@@ -245,3 +245,4 @@
 - 2019-06-05: Add remark
 - 2019-03-05: Small fix
 - 2019-02-05: Update guide
+- 2019-06-05: Expand section
