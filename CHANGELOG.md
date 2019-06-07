@@ -241,3 +241,4 @@
 - 2019-04-01: Update guide
 - 2019-06-22: Small fix
 - 2019-04-05: Update notes
+- 2019-06-07: Adjust content
