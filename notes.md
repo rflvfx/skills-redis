@@ -61,3 +61,4 @@
 - 2019-04-13: Adjust content
 - 2019-04-04: Add remark
 - 2019-06-24: Add remark
+- 2019-06-18: Improve docs
