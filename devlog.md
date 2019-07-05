@@ -1,2 +1,3 @@
 - 2017-02-06 - Improve documentation
 - 2017-05-19 - Update content
+- 2019-07-05 - Update notes
