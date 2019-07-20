@@ -248,3 +248,4 @@
 - 2019-06-05: Expand section
 - 2019-11-15: Add note
 - 2019-03-24: Small fix
+- 2019-07-20: Add detail
