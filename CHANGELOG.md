@@ -7,3 +7,5 @@
 - 2017-12-03: Improve bitmap usage coverage
 - 2019-05-27: Add scan iteration notes
 - 2015-12-19: Refine pipeline batching guide
+- 2019-08-01: Refine cluster slots guide
+- 2016-05-07: Update keyspace notifications reference
