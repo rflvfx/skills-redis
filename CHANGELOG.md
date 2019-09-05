@@ -232,3 +232,4 @@
 - 2019-04-27: Typo fix
 - 2019-08-13: Review content
 - 2019-05-04: Update notes
+- 2019-09-05: Small fix
