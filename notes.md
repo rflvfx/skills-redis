@@ -54,3 +54,4 @@
 - 2019-01-08: Add detail
 - 2019-08-20: Update guide
 - 2019-05-10: Improve docs
+- 2019-09-05: Add detail
