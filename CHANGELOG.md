@@ -262,3 +262,4 @@
 - 2020-02-20: Add detail
 - 2020-07-06: Add remark
 - 2020-10-18: Add remark
+- 2020-01-05: Add detail
