@@ -275,3 +275,4 @@
 - 2020-02-22: Small fix
 - 2020-01-04: Review content
 - 2020-02-14: Expand section
+- 2020-02-03: Refine text
