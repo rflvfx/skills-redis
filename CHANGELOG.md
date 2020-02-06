@@ -258,3 +258,4 @@
 - 2020-03-17: Expand section
 - 2020-08-11: Small fix
 - 2020-04-24: Small fix
+- 2020-02-06: Fix example
