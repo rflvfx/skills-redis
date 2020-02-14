@@ -274,3 +274,4 @@
 - 2020-12-28: Minor update
 - 2020-02-22: Small fix
 - 2020-01-04: Review content
+- 2020-02-14: Expand section
