@@ -20,3 +20,4 @@
 - 2018-07-12: Review key expiration section
 - 2019-01-19: Add hash structures examples
 - 2019-01-24: Update sorted sets reference
+- 2020-02-15: Add stream consumers notes
