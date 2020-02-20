@@ -259,3 +259,4 @@
 - 2020-08-11: Small fix
 - 2020-04-24: Small fix
 - 2020-02-06: Fix example
+- 2020-02-20: Add detail
