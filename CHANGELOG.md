@@ -272,3 +272,4 @@
 - 2020-06-04: Update guide
 - 2020-05-06: Improve docs
 - 2020-12-28: Minor update
+- 2020-02-22: Small fix
