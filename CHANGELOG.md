@@ -286,3 +286,4 @@
 - 2020-04-08: Fix example
 - 2020-04-25: Clarify section
 - 2020-04-27: Improve docs
+- 2020-03-09: Update notes
