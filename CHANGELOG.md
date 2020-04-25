@@ -284,3 +284,4 @@
 - 2020-07-11: Expand section
 - 2020-02-21: Minor update
 - 2020-04-08: Fix example
+- 2020-04-25: Clarify section
