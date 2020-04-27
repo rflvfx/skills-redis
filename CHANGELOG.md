@@ -285,3 +285,4 @@
 - 2020-02-21: Minor update
 - 2020-04-08: Fix example
 - 2020-04-25: Clarify section
+- 2020-04-27: Improve docs
