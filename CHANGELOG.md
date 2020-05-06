@@ -270,3 +270,4 @@
 - 2020-12-12: Polish docs
 - 2020-11-05: Polish docs
 - 2020-06-04: Update guide
+- 2020-05-06: Improve docs
