@@ -68,3 +68,4 @@
 - 2020-08-19: Clarify section
 - 2020-05-14: Expand section
 - 2020-04-21: Improve docs
+- 2020-05-19: Review content
