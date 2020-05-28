@@ -280,3 +280,4 @@
 - 2020-12-02: Add remark
 - 2020-09-22: Adjust content
 - 2020-12-07: Update guide
+- 2020-05-28: Review content
