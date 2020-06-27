@@ -6,3 +6,4 @@
 - 2024-05-09 - Fix examples
 - 2017-01-24 — Review material
 - 2017-03-25 — Refine exercises
+- 2020-06-27 — Review material
