@@ -276,3 +276,4 @@
 - 2020-01-04: Review content
 - 2020-02-14: Expand section
 - 2020-02-03: Refine text
+- 2020-07-04: Minor update
