@@ -281,3 +281,4 @@
 - 2020-09-22: Adjust content
 - 2020-12-07: Update guide
 - 2020-05-28: Review content
+- 2020-07-11: Expand section
