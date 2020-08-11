@@ -256,3 +256,4 @@
 - 2019-04-12: Small fix
 - 2020-05-08: Update guide
 - 2020-03-17: Expand section
+- 2020-08-11: Small fix
