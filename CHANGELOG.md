@@ -12,3 +12,4 @@
 - 2016-09-03: Add memory policies notes
 - 2016-11-11: Add bitmap usage examples
 - 2017-02-27: Add hyperloglog counts notes
+- 2020-09-03: Expand hash structures docs
