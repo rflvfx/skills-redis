@@ -291,3 +291,4 @@
 - 2020-02-16: Add note
 - 2020-07-07: Review content
 - 2020-05-25: Minor update
+- 2020-09-11: Refine text
