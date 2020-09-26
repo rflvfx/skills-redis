@@ -71,3 +71,4 @@
 - 2020-05-19: Review content
 - 2020-08-13: Refine text
 - 2020-08-18: Update notes
+- 2020-09-26: Improve docs
