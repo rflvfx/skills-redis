@@ -63,3 +63,4 @@
 - 2019-06-24: Add remark
 - 2019-06-18: Improve docs
 - 2020-07-10: Review content
+- 2020-10-12: Expand section
