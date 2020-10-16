@@ -64,3 +64,4 @@
 - 2019-06-18: Improve docs
 - 2020-07-10: Review content
 - 2020-10-12: Expand section
+- 2020-10-16: Add note
