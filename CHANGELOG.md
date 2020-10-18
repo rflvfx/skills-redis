@@ -261,3 +261,4 @@
 - 2020-02-06: Fix example
 - 2020-02-20: Add detail
 - 2020-07-06: Add remark
+- 2020-10-18: Add remark
