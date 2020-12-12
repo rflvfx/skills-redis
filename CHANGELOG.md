@@ -267,3 +267,4 @@
 - 2020-06-14: Improve docs
 - 2020-12-26: Review content
 - 2020-06-18: Typo fix
+- 2020-12-12: Polish docs
