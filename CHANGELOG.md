@@ -265,3 +265,4 @@
 - 2020-01-05: Add detail
 - 2020-12-09: Add detail
 - 2020-06-14: Improve docs
+- 2020-12-26: Review content
