@@ -314,3 +314,4 @@
 - 2021-11-28: Minor update
 - 2021-08-01: Update notes
 - 2021-09-24: Fix example
+- 2021-01-03: Small fix
