@@ -306,3 +306,4 @@
 - 2021-09-17: Adjust content
 - 2021-06-13: Small fix
 - 2021-07-22: Review content
+- 2021-01-03: Expand section
