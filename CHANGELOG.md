@@ -294,3 +294,4 @@
 - 2020-09-11: Refine text
 - 2021-07-11: Clarify section
 - 2021-04-12: Add remark
+- 2021-01-09: Minor update
