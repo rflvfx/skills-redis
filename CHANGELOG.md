@@ -24,3 +24,4 @@
 - 2024-07-02: Improve scan iteration coverage
 - 2024-12-26: Expand sentinel failover docs
 - 2025-04-17: Update cluster slots reference
+- 2025-12-09: Update key expiration reference
