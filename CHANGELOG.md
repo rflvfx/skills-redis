@@ -324,3 +324,4 @@
 - 2021-06-27: Add remark
 - 2021-08-20: Expand section
 - 2021-12-21: Add detail
+- 2021-05-16: Clarify section
