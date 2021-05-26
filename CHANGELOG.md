@@ -297,3 +297,4 @@
 - 2021-01-09: Minor update
 - 2021-04-15: Adjust content
 - 2021-01-23: Improve docs
+- 2021-05-26: Refine text
