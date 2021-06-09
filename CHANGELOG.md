@@ -317,3 +317,4 @@
 - 2021-01-03: Small fix
 - 2021-02-09: Update notes
 - 2021-11-24: Adjust content
+- 2021-06-09: Improve docs
