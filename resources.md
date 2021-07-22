@@ -1,2 +1,3 @@
 - 2018-08-06: Refine content (skills-redis)
 - 2020-05-06: Fix typo in docs (skills-redis)
+- 2021-07-22: Add quick reference (skills-redis)
