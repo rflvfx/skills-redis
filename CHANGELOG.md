@@ -320,3 +320,4 @@
 - 2021-06-09: Improve docs
 - 2021-04-05: Adjust content
 - 2021-02-07: Typo fix
+- 2021-09-06: Adjust content
