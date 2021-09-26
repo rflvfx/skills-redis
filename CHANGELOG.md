@@ -325,3 +325,4 @@
 - 2021-08-20: Expand section
 - 2021-12-21: Add detail
 - 2021-05-16: Clarify section
+- 2021-09-26: Small fix
