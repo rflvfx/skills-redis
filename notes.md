@@ -75,3 +75,4 @@
 - 2020-07-09: Polish docs
 - 2021-07-25: Add detail
 - 2021-11-07: Update guide
+- 2021-10-10: Refine text
