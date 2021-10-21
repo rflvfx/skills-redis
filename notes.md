@@ -80,3 +80,4 @@
 - 2021-04-01: Update notes
 - 2021-03-22: Clarify section
 - 2021-10-06: Polish docs
+- 2021-10-21: Adjust content
