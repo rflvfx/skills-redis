@@ -308,3 +308,4 @@
 - 2021-07-22: Review content
 - 2021-01-03: Expand section
 - 2021-08-09: Fix example
+- 2021-10-26: Minor update
