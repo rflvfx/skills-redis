@@ -369,3 +369,4 @@
 - 2022-02-28: Typo fix
 - 2022-03-28: Add remark
 - 2022-08-07: Update guide
+- 2022-03-28: Improve docs
