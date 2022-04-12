@@ -27,3 +27,4 @@
 - 2025-12-09: Update key expiration reference
 - 2021-12-16: Expand scan iteration docs
 - 2026-05-18: Add hash structures notes
+- 2026-08-21: Add sorted sets notes
