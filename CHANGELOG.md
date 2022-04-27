@@ -28,3 +28,5 @@
 - 2021-12-16: Expand scan iteration docs
 - 2026-05-18: Add hash structures notes
 - 2026-08-21: Add sorted sets notes
+- 2022-04-27: Improve cluster slots coverage
+- 2026-12-11: Document lua scripts
