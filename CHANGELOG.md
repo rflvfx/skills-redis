@@ -350,3 +350,4 @@
 - 2022-11-15: Improve docs
 - 2022-05-12: Expand section
 - 2022-09-19: Typo fix
+- 2022-05-12: Refine text
