@@ -87,3 +87,4 @@
 - 2021-02-18: Adjust content
 - 2022-07-16: Update notes
 - 2022-01-25: Typo fix
+- 2022-06-03: Improve docs
