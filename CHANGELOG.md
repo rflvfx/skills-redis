@@ -16,3 +16,4 @@
 - 2017-04-27: Review geo indexes section
 - 2017-07-26: Add pubsub channels examples
 - 2021-11-27: Add pipeline batching notes
+- 2018-05-16: Update connection handling reference
