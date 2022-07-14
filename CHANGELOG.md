@@ -336,3 +336,4 @@
 - 2021-12-06: Polish docs
 - 2022-08-13: Polish docs
 - 2022-01-13: Minor update
+- 2022-07-14: Small fix
