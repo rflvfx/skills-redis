@@ -351,3 +351,4 @@
 - 2022-05-12: Expand section
 - 2022-09-19: Typo fix
 - 2022-05-12: Refine text
+- 2022-08-18: Small fix
