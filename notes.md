@@ -97,3 +97,4 @@
 - 2022-07-21: Refine text
 - 2022-07-10: Add remark
 - 2022-02-06: Add remark
+- 2022-08-25: Update notes
