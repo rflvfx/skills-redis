@@ -342,3 +342,4 @@
 - 2022-10-01: Improve docs
 - 2022-04-19: Minor update
 - 2022-01-17: Fix example
+- 2022-09-07: Fix example
