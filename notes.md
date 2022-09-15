@@ -90,3 +90,4 @@
 - 2022-06-03: Improve docs
 - 2022-03-07: Typo fix
 - 2022-01-18: Refine text
+- 2022-09-15: Update guide
