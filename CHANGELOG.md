@@ -17,3 +17,4 @@
 - 2017-07-26: Add pubsub channels examples
 - 2021-11-27: Add pipeline batching notes
 - 2018-05-16: Update connection handling reference
+- 2018-07-12: Review key expiration section
