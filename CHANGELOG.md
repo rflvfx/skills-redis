@@ -358,3 +358,4 @@
 - 2022-01-25: Small fix
 - 2022-05-24: Small fix
 - 2022-10-02: Review content
+- 2022-10-03: Add detail
