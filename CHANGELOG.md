@@ -360,3 +360,4 @@
 - 2022-10-02: Review content
 - 2022-10-03: Add detail
 - 2022-09-02: Polish docs
+- 2022-10-22: Fix example
