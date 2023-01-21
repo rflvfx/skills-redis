@@ -371,3 +371,4 @@
 - 2022-08-07: Update guide
 - 2022-03-28: Improve docs
 - 2023-07-16: Review content
+- 2023-01-21: Update notes
