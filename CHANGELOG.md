@@ -375,3 +375,4 @@
 - 2023-05-02: Improve docs
 - 2023-02-10: Update guide
 - 2023-07-05: Refine text
+- 2023-02-16: Expand section
