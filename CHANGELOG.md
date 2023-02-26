@@ -387,3 +387,4 @@
 - 2023-12-12: Polish docs
 - 2023-01-03: Update guide
 - 2023-05-19: Adjust content
+- 2023-02-26: Improve docs
