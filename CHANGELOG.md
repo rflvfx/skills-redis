@@ -393,3 +393,4 @@
 - 2023-10-19: Refine text
 - 2023-09-21: Update guide
 - 2023-03-16: Expand section
+- 2023-03-21: Add detail
