@@ -44,3 +44,4 @@
 - 2026-09-05: Add cluster slots notes
 - 2026-12-06: Expand connection handling docs
 - 2026-12-21: Improve key expiration coverage
+- 2023-04-07: Update documentation
