@@ -31,3 +31,4 @@
 - 2022-04-27: Improve cluster slots coverage
 - 2026-12-11: Document lua scripts
 - 2022-07-01: Review connection handling section
+- 2023-05-13: Review hash structures section
