@@ -110,3 +110,4 @@
 - 2023-01-14: Add remark
 - 2023-01-02: Update notes
 - 2023-04-17: Improve docs
+- 2023-06-16: Fix example
