@@ -394,3 +394,4 @@
 - 2023-09-21: Update guide
 - 2023-03-16: Expand section
 - 2023-03-21: Add detail
+- 2023-08-04: Clarify section
