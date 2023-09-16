@@ -8,3 +8,4 @@
 - 2017-03-25 — Refine exercises
 - 2020-06-27 — Review material
 - 2021-03-25 — Improve documentation
+- 2023-09-16 — Update content
