@@ -401,3 +401,4 @@
 - 2023-12-27: Adjust content
 - 2023-10-16: Improve docs
 - 2023-02-02: Adjust content
+- 2023-09-28: Typo fix
