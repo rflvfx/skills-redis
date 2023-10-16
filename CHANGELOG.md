@@ -399,3 +399,4 @@
 - 2023-05-04: Add detail
 - 2023-10-15: Add note
 - 2023-12-27: Adjust content
+- 2023-10-16: Improve docs
