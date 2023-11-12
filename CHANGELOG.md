@@ -32,3 +32,4 @@
 - 2026-12-11: Document lua scripts
 - 2022-07-01: Review connection handling section
 - 2023-05-13: Review hash structures section
+- 2023-11-12: Document pipeline batching
