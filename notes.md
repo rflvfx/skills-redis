@@ -104,3 +104,4 @@
 - 2022-11-20: Fix example
 - 2023-04-17: Minor update
 - 2023-01-13: Update notes
+- 2023-11-17: Add note
