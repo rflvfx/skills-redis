@@ -112,3 +112,4 @@
 - 2023-04-17: Improve docs
 - 2023-06-16: Fix example
 - 2023-05-21: Review content
+- 2023-12-16: Fix example
