@@ -404,3 +404,4 @@
 - 2023-09-28: Typo fix
 - 2023-08-12: Improve docs
 - 2023-01-10: Add note
+- 2023-12-26: Small fix
