@@ -423,3 +423,4 @@
 - 2024-09-13: Polish docs
 - 2024-12-13: Add note
 - 2024-11-12: Add note
+- 2024-04-05: Update guide
