@@ -123,3 +123,4 @@
 - 2024-04-14: Refine text
 - 2024-06-08: Adjust content
 - 2024-08-24: Refine text
+- 2024-04-16: Polish docs
