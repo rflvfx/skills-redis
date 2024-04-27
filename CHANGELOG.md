@@ -411,3 +411,4 @@
 - 2023-12-27: Typo fix
 - 2024-02-22: Adjust content
 - 2024-12-09: Add note
+- 2024-04-27: Clarify section
