@@ -431,3 +431,4 @@
 - 2024-06-07: Minor update
 - 2024-04-12: Add note
 - 2024-02-08: Review content
+- 2024-06-01: Update guide
