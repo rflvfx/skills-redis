@@ -428,3 +428,4 @@
 - 2024-05-07: Improve docs
 - 2024-03-19: Add remark
 - 2024-12-23: Improve docs
+- 2024-06-07: Minor update
