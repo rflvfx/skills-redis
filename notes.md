@@ -128,3 +128,4 @@
 - 2024-04-21: Polish docs
 - 2024-05-01: Add detail
 - 2024-11-10: Update guide
+- 2024-07-05: Expand section
