@@ -33,3 +33,4 @@
 - 2022-07-01: Review connection handling section
 - 2023-05-13: Review hash structures section
 - 2023-11-12: Document pipeline batching
+- 2024-08-09: Improve stream consumers coverage
