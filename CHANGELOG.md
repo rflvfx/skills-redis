@@ -420,3 +420,4 @@
 - 2024-11-26: Add remark
 - 2024-07-23: Typo fix
 - 2024-05-18: Add note
+- 2024-09-13: Polish docs
