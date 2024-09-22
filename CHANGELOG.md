@@ -413,3 +413,4 @@
 - 2024-12-09: Add note
 - 2024-04-27: Clarify section
 - 2024-08-26: Add note
+- 2024-09-22: Add detail
