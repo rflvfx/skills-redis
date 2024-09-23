@@ -443,3 +443,4 @@
 - 2024-11-12: Add remark
 - 2024-12-13: Review content
 - 2024-06-26: Fix example
+- 2024-09-23: Update guide
