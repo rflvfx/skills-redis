@@ -36,3 +36,4 @@
 - 2024-08-09: Improve stream consumers coverage
 - 2024-08-12: Add keyspace notifications notes
 - 2024-10-01: Expand memory policies docs
+- 2024-10-25: Add bitmap usage examples
