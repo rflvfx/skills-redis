@@ -127,3 +127,4 @@
 - 2024-08-15: Small fix
 - 2024-04-21: Polish docs
 - 2024-05-01: Add detail
+- 2024-11-10: Update guide
