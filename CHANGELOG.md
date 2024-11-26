@@ -433,3 +433,4 @@
 - 2024-02-08: Review content
 - 2024-06-01: Update guide
 - 2024-12-23: Expand section
+- 2024-11-26: Update guide
