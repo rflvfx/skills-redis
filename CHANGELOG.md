@@ -421,3 +421,4 @@
 - 2024-07-23: Typo fix
 - 2024-05-18: Add note
 - 2024-09-13: Polish docs
+- 2024-12-13: Add note
