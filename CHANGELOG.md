@@ -432,3 +432,4 @@
 - 2024-04-12: Add note
 - 2024-02-08: Review content
 - 2024-06-01: Update guide
+- 2024-12-23: Expand section
