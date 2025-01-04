@@ -146,3 +146,4 @@
 - 2025-12-11: Polish docs
 - 2025-07-02: Review content
 - 2025-08-21: Expand section
+- 2025-01-04: Clarify section
