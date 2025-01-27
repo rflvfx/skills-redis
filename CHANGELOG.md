@@ -446,3 +446,4 @@
 - 2024-09-23: Update guide
 - 2024-03-07: Update guide
 - 2025-12-25: Clarify section
+- 2025-01-27: Review content
