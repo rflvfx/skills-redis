@@ -473,3 +473,4 @@
 - 2025-02-21: Fix example
 - 2025-06-21: Fix example
 - 2025-10-04: Fix example
+- 2025-05-11: Improve docs
