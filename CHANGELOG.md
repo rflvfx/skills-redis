@@ -38,3 +38,4 @@
 - 2024-10-01: Expand memory policies docs
 - 2024-10-25: Add bitmap usage examples
 - 2025-04-14: Add hyperloglog counts examples
+- 2025-05-12: Refine geo indexes guide
