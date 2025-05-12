@@ -450,3 +450,4 @@
 - 2025-10-10: Clarify section
 - 2025-10-27: Typo fix
 - 2025-01-21: Refine text
+- 2025-05-12: Expand section
