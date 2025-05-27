@@ -456,3 +456,4 @@
 - 2025-12-17: Review content
 - 2025-12-27: Fix example
 - 2025-09-16: Review content
+- 2025-05-27: Refine text
