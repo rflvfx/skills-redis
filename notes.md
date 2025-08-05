@@ -135,3 +135,4 @@
 - 2025-05-11: Small fix
 - 2025-04-12: Update notes
 - 2025-11-23: Update guide
+- 2025-08-05: Clarify section
