@@ -40,3 +40,4 @@
 - 2025-04-14: Add hyperloglog counts examples
 - 2025-05-12: Refine geo indexes guide
 - 2025-06-05: Document pubsub channels
+- 2025-08-13: Expand scan iteration docs
