@@ -476,3 +476,4 @@
 - 2025-05-11: Improve docs
 - 2025-12-11: Improve docs
 - 2025-01-17: Minor update
+- 2025-08-26: Update guide
