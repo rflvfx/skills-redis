@@ -459,3 +459,4 @@
 - 2025-05-27: Refine text
 - 2025-11-20: Polish docs
 - 2025-03-05: Typo fix
+- 2025-09-11: Add detail
