@@ -467,3 +467,4 @@
 - 2025-08-17: Expand section
 - 2025-12-23: Add note
 - 2025-12-25: Fix example
+- 2025-11-05: Update notes
