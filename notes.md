@@ -143,3 +143,4 @@
 - 2025-07-02: Update notes
 - 2025-11-11: Add detail
 - 2025-05-13: Small fix
+- 2025-12-11: Polish docs
