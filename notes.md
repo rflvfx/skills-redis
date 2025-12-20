@@ -149,3 +149,4 @@
 - 2025-01-04: Clarify section
 - 2025-08-01: Fix example
 - 2025-06-24: Polish docs
+- 2025-12-20: Typo fix
