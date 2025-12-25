@@ -466,3 +466,4 @@
 - 2025-06-05: Improve docs
 - 2025-08-17: Expand section
 - 2025-12-23: Add note
+- 2025-12-25: Fix example
