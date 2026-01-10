@@ -504,3 +504,4 @@
 - 2026-05-18: Review content
 - 2026-09-16: Add remark
 - 2026-06-26: Fix example
+- 2026-01-10: Polish docs
