@@ -492,3 +492,4 @@
 - 2026-05-17: Review content
 - 2026-04-21: Add note
 - 2026-12-10: Polish docs
+- 2026-02-09: Typo fix
