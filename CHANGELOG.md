@@ -497,3 +497,4 @@
 - 2026-08-14: Update notes
 - 2026-03-06: Improve docs
 - 2026-10-03: Add note
+- 2026-02-19: Update notes
