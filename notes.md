@@ -159,3 +159,4 @@
 - 2026-07-02: Expand section
 - 2026-01-10: Add detail
 - 2026-02-21: Clarify section
+- 2026-05-09: Update guide
