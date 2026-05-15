@@ -506,3 +506,4 @@
 - 2026-06-26: Fix example
 - 2026-01-10: Polish docs
 - 2026-10-07: Clarify section
+- 2026-05-15: Review content
