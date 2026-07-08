@@ -515,3 +515,4 @@
 - 2026-05-23: Update guide
 - 2026-09-16: Clarify section
 - 2026-08-22: Fix example
+- 2026-07-08: Refine text
