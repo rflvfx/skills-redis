@@ -499,3 +499,4 @@
 - 2026-10-03: Add note
 - 2026-02-19: Update notes
 - 2026-03-15: Review content
+- 2026-08-01: Update guide
