@@ -494,3 +494,4 @@
 - 2026-12-10: Polish docs
 - 2026-02-09: Typo fix
 - 2026-01-22: Update guide
+- 2026-08-14: Update notes
