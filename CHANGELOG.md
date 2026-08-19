@@ -507,3 +507,4 @@
 - 2026-01-10: Polish docs
 - 2026-10-07: Clarify section
 - 2026-05-15: Review content
+- 2026-08-19: Update guide
