@@ -152,3 +152,4 @@
 - 2025-12-20: Typo fix
 - 2025-11-06: Improve docs
 - 2025-08-26: Polish docs
+- 2026-09-01: Add note
