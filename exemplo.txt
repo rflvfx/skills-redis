@@ -1,6 +1,0 @@
-# redis-commands.txt
-SET nome "Rafael"
-GET nome
-LPUSH habilidades Redis
-LRANGE habilidades 0 -1
-EXPIRE sessao 3600
