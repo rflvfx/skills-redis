@@ -1,0 +1,41 @@
+time="2026-09-15T14:52:43-03:00" level=warning msg="E:\\wamp64\\www\\githubrflvfx\\skills-redis\\docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ redis Pulling 
+ 41caa0265cb5 Pulling fs layer 
+ 2c96e5a02ba0 Pulling fs layer 
+ 897d797d2723 Pulling fs layer 
+ de4b872bfdc3 Pulling fs layer 
+ 9516b0cd89c9 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ d85eda7b0b14 Pulling fs layer 
+ 4f4fb700ef54 Already exists 
+ 2c96e5a02ba0 Download complete 
+ 41caa0265cb5 Download complete 
+ d85eda7b0b14 Download complete 
+ 897d797d2723 Downloading [==============>                                    ]  1.049MB/3.647MB
+ de4b872bfdc3 Downloading [====>                                              ]  1.049MB/12.42MB
+ 9516b0cd89c9 Download complete 
+ 897d797d2723 Downloading [===========================================>       ]  3.146MB/3.647MB
+ de4b872bfdc3 Downloading [========>                                          ]  2.097MB/12.42MB
+ 897d797d2723 Download complete 
+ de4b872bfdc3 Downloading [=====================>                             ]  5.243MB/12.42MB
+ 897d797d2723 Extracting 1 s
+ de4b872bfdc3 Downloading [=================================>                 ]  8.389MB/12.42MB
+ d85eda7b0b14 Pull complete 
+ 9516b0cd89c9 Extracting 1 s
+ 897d797d2723 Pull complete 
+ de4b872bfdc3 Downloading [==========================================>        ]  10.49MB/12.42MB
+ 9516b0cd89c9 Pull complete 
+ de4b872bfdc3 Download complete 
+ de4b872bfdc3 Extracting 1 s
+ de4b872bfdc3 Extracting 1 s
+ 4f4fb700ef54 Pull complete 
+ 2c96e5a02ba0 Pull complete 
+ de4b872bfdc3 Pull complete 
+ 41caa0265cb5 Pull complete 
+ redis Pulled 
+ Network skills-redis_default  Creating
+ Network skills-redis_default  Created
+ Container skills-redis-redis-1  Creating
+ Container skills-redis-redis-1  Created
+ Container skills-redis-redis-1  Starting
+ Container skills-redis-redis-1  Started
