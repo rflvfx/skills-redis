@@ -513,3 +513,4 @@
 - 2026-11-02: Update notes
 - 2026-10-03: Add detail
 - 2026-05-23: Update guide
+- 2026-09-16: Clarify section
