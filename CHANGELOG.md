@@ -511,3 +511,4 @@
 - 2026-11-09: Update guide
 - 2026-05-10: Fix example
 - 2026-11-02: Update notes
+- 2026-10-03: Add detail
