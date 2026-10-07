@@ -505,3 +505,4 @@
 - 2026-09-16: Add remark
 - 2026-06-26: Fix example
 - 2026-01-10: Polish docs
+- 2026-10-07: Clarify section
