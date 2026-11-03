@@ -161,3 +161,4 @@
 - 2026-02-21: Clarify section
 - 2026-05-09: Update guide
 - 2026-08-19: Polish docs
+- 2026-11-03: Update notes
