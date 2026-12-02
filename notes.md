@@ -166,3 +166,4 @@
 - 2026-08-28: Minor update
 - 2026-01-09: Update guide
 - 2026-04-14: Add remark
+- 2026-12-02: Typo fix
